@@ -1,7 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Primeiro projeto com React - Go Stack 🚀
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+
+## Dashboard
+
+<img alt="GoStack" src="https://raw.githubusercontent.com/newerton/github-explorer/master/public/dashboard.jpg" />
+
+## Repository Info
+
+<img alt="GoStack" src="https://raw.githubusercontent.com/newerton/github-explorer/master/public/repository.jpg" />
 
 In the project directory, you can run:
 
